@@ -1,2 +1,2 @@
 # Aia
-JRPG game on C++ with Qt
+Action adventure with roguelike elements and puzzles
